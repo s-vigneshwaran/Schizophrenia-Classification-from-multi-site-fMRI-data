@@ -4,3 +4,4 @@ data/cobre_req
 data/mni_template
 data/ucla
 output
+__pycache__
