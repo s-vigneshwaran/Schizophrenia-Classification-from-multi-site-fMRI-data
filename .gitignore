@@ -1,7 +1,8 @@
 .ipynb_checkpoints
-data/cobre
-data/cobre_req
-data/mni_template
-data/ucla
+data/templates
+data/Control
+data/Schizoaffective
+data/Schizophrenia
+data/Schizophrenia_Strict
 output
 __pycache__

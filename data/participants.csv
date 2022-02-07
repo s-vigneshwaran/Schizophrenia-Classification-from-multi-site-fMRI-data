@@ -1,0 +1,338 @@
+id,age,gender,diagnosis,site,rest,T1w,ScannerSerialNumber
+10159,30,F,Control,ucla,1.0,1.0,"(35343.0,)"
+10171,24,M,Control,ucla,1.0,1.0,"(35343.0,)"
+10189,49,M,Control,ucla,1.0,1.0,"(35343.0,)"
+10206,21,M,Control,ucla,1.0,1.0,"(35343.0,)"
+10217,33,F,Control,ucla,1.0,1.0,"(35343.0,)"
+10225,35,M,Control,ucla,1.0,1.0,"(35343.0,)"
+10227,31,F,Control,ucla,1.0,1.0,"(35343.0,)"
+10228,40,F,Control,ucla,1.0,1.0,"(35343.0,)"
+10235,22,M,Control,ucla,1.0,1.0,"(35343.0,)"
+10249,28,M,Control,ucla,1.0,1.0,"(35343.0,)"
+10269,38,M,Control,ucla,1.0,1.0,"(35343.0,)"
+10271,41,F,Control,ucla,1.0,1.0,"(35343.0,)"
+10273,30,F,Control,ucla,1.0,1.0,"(35343.0,)"
+10274,43,M,Control,ucla,1.0,1.0,"(35343.0,)"
+10280,27,M,Control,ucla,1.0,1.0,"(35343.0,)"
+10290,48,M,Control,ucla,1.0,1.0,"(35343.0,)"
+10292,49,M,Control,ucla,1.0,1.0,"(35343.0,)"
+10304,23,F,Control,ucla,1.0,1.0,"(35343.0,)"
+10316,29,M,Control,ucla,1.0,1.0,"(35343.0,)"
+10321,34,M,Control,ucla,1.0,1.0,"(35343.0,)"
+10325,29,F,Control,ucla,1.0,1.0,"(35343.0,)"
+10329,22,M,Control,ucla,1.0,1.0,"(35343.0,)"
+10339,45,F,Control,ucla,1.0,1.0,"(35343.0,)"
+10340,32,M,Control,ucla,1.0,1.0,"(35343.0,)"
+10345,25,M,Control,ucla,1.0,1.0,"(35343.0,)"
+10347,25,F,Control,ucla,1.0,1.0,"(35343.0,)"
+10356,43,F,Control,ucla,1.0,1.0,"(35343.0,)"
+10361,42,F,Control,ucla,1.0,1.0,"(35343.0,)"
+10365,24,F,Control,ucla,1.0,1.0,"(35343.0,)"
+10376,42,F,Control,ucla,1.0,1.0,"(35343.0,)"
+10377,49,M,Control,ucla,1.0,1.0,"(35343.0,)"
+10388,50,F,Control,ucla,1.0,1.0,"(35343.0,)"
+10429,36,F,Control,ucla,1.0,1.0,"(35343.0,)"
+10438,25,M,Control,ucla,1.0,1.0,"(35343.0,)"
+10440,26,F,Control,ucla,1.0,1.0,"(35343.0,)"
+10448,37,M,Control,ucla,1.0,1.0,"(35343.0,)"
+10455,25,M,Control,ucla,1.0,1.0,"(35343.0,)"
+10460,40,M,Control,ucla,1.0,1.0,"(35343.0,)"
+10471,30,F,Control,ucla,1.0,1.0,"(35343.0,)"
+10478,21,F,Control,ucla,1.0,1.0,"(35343.0,)"
+10487,31,M,Control,ucla,1.0,1.0,"(35343.0,)"
+10492,22,F,Control,ucla,1.0,1.0,"(35343.0,)"
+10506,25,M,Control,ucla,1.0,1.0,"(35343.0,)"
+10517,21,F,Control,ucla,1.0,1.0,"(35343.0,)"
+10523,24,M,Control,ucla,1.0,1.0,"(35343.0,)"
+10524,46,F,Control,ucla,1.0,1.0,"(35343.0,)"
+10525,24,M,Control,ucla,1.0,1.0,"(35343.0,)"
+10527,24,M,Control,ucla,1.0,1.0,"(35343.0,)"
+10530,23,M,Control,ucla,1.0,1.0,"(35343.0,)"
+10557,26,M,Control,ucla,1.0,1.0,"(35343.0,)"
+10565,25,F,Control,ucla,1.0,1.0,"(35343.0,)"
+10570,32,F,Control,ucla,1.0,1.0,"(35343.0,)"
+10575,23,M,Control,ucla,1.0,1.0,"(35343.0,)"
+10624,28,M,Control,ucla,1.0,1.0,"(35343.0,)"
+10629,31,M,Control,ucla,1.0,1.0,"(35343.0,)"
+10631,21,F,Control,ucla,1.0,1.0,"(35343.0,)"
+10638,25,F,Control,ucla,1.0,1.0,"(35343.0,)"
+10668,25,F,Control,ucla,1.0,1.0,"(35343.0,)"
+10672,29,M,Control,ucla,1.0,1.0,"(35343.0,)"
+10674,42,F,Control,ucla,1.0,1.0,"(35343.0,)"
+10678,24,F,Control,ucla,1.0,1.0,"(35343.0,)"
+10680,22,F,Control,ucla,1.0,1.0,"(35343.0,)"
+10686,26,F,Control,ucla,1.0,1.0,"(35343.0,)"
+10692,28,F,Control,ucla,1.0,1.0,"(35343.0,)"
+10696,25,F,Control,ucla,1.0,1.0,"(35343.0,)"
+10697,39,M,Control,ucla,1.0,1.0,"(35343.0,)"
+10704,32,M,Control,ucla,1.0,1.0,"(35343.0,)"
+10707,28,M,Control,ucla,1.0,1.0,"(35343.0,)"
+10708,25,M,Control,ucla,1.0,1.0,"(35343.0,)"
+10719,23,F,Control,ucla,1.0,1.0,"(35343.0,)"
+10724,22,F,Control,ucla,1.0,1.0,"(35343.0,)"
+10746,23,M,Control,ucla,1.0,1.0,"(35343.0,)"
+10762,41,F,Control,ucla,1.0,1.0,"(35343.0,)"
+10779,38,M,Control,ucla,1.0,1.0,"(35343.0,)"
+10785,36,F,Control,ucla,1.0,1.0,"(35343.0,)"
+10788,35,F,Control,ucla,1.0,1.0,"(35343.0,)"
+10844,26,M,Control,ucla,1.0,1.0,"(35343.0,)"
+10855,47,M,Control,ucla,1.0,1.0,"(35343.0,)"
+10871,41,M,Control,ucla,1.0,1.0,"(35343.0,)"
+10877,23,M,Control,ucla,1.0,1.0,"(35343.0,)"
+10882,23,M,Control,ucla,1.0,1.0,"(35343.0,)"
+10891,21,F,Control,ucla,1.0,1.0,"(35343.0,)"
+10893,25,F,Control,ucla,1.0,1.0,"(35343.0,)"
+10912,44,F,Control,ucla,1.0,1.0,"(35343.0,)"
+10934,37,F,Control,ucla,1.0,1.0,"(35343.0,)"
+10940,25,M,Control,ucla,1.0,1.0,"(35343.0,)"
+10948,22,F,Control,ucla,,1.0,"(35343.0,)"
+10949,27,M,Control,ucla,1.0,1.0,"(35343.0,)"
+10958,30,F,Control,ucla,1.0,1.0,"(35343.0,)"
+10963,45,F,Control,ucla,1.0,1.0,"(35343.0,)"
+10968,24,M,Control,ucla,1.0,1.0,"(35343.0,)"
+10975,32,M,Control,ucla,1.0,1.0,"(35343.0,)"
+10977,47,M,Control,ucla,1.0,1.0,"(35343.0,)"
+10987,26,F,Control,ucla,1.0,1.0,"(35343.0,)"
+10998,49,M,Control,ucla,1.0,1.0,"(35343.0,)"
+11019,47,M,Control,ucla,1.0,1.0,"(35343.0,)"
+11030,40,M,Control,ucla,1.0,1.0,"(35343.0,)"
+11044,40,M,Control,ucla,1.0,1.0,"(35343.0,)"
+11050,48,M,Control,ucla,1.0,1.0,"(35343.0,)"
+11052,26,M,Control,ucla,1.0,1.0,"(35343.0,)"
+11059,22,F,Control,ucla,1.0,1.0,"(35343.0,)"
+11061,45,F,Control,ucla,1.0,1.0,"(35426.0,)"
+11062,49,F,Control,ucla,1.0,1.0,"(35426.0,)"
+11066,37,M,Control,ucla,1.0,1.0,"(35426.0,)"
+11067,23,F,Control,ucla,1.0,1.0,"(35426.0,)"
+11068,39,M,Control,ucla,1.0,1.0,"(35426.0,)"
+11077,22,F,Control,ucla,1.0,1.0,"(35426.0,)"
+11088,21,F,Control,ucla,1.0,1.0,"(35426.0,)"
+11090,24,M,Control,ucla,1.0,1.0,"(35426.0,)"
+11097,43,M,Control,ucla,1.0,1.0,"(35426.0,)"
+11098,39,M,Control,ucla,1.0,1.0,"(35426.0,)"
+11104,21,M,Control,ucla,1.0,1.0,"(35426.0,)"
+11105,27,F,Control,ucla,1.0,1.0,"(35426.0,)"
+11106,27,M,Control,ucla,1.0,1.0,"(35426.0,)"
+11108,21,F,Control,ucla,1.0,1.0,"(35426.0,)"
+11112,29,M,Control,ucla,1.0,1.0,"(35426.0,)"
+11122,40,F,Control,ucla,1.0,1.0,"(35426.0,)"
+11128,28,F,Control,ucla,1.0,1.0,"(35426.0,)"
+11131,38,F,Control,ucla,1.0,1.0,"(35426.0,)"
+11142,24,M,Control,ucla,1.0,1.0,"(35426.0,)"
+11143,28,M,Control,ucla,1.0,1.0,"(35426.0,)"
+11149,32,M,Control,ucla,1.0,1.0,"(35426.0,)"
+11156,25,F,Control,ucla,1.0,1.0,"(35426.0,)"
+50004,37,M,Schizophrenia,ucla,1.0,1.0,"(35343.0,)"
+50005,40,M,Schizophrenia,ucla,1.0,1.0,"(35343.0,)"
+50006,44,F,Schizophrenia,ucla,1.0,1.0,"(35343.0,)"
+50007,47,F,Schizophrenia,ucla,1.0,1.0,"(35343.0,)"
+50008,48,M,Schizophrenia,ucla,1.0,1.0,"(35343.0,)"
+50010,41,M,Schizophrenia,ucla,1.0,1.0,"(35343.0,)"
+50013,30,M,Schizophrenia,ucla,1.0,1.0,"(35343.0,)"
+50014,22,M,Schizophrenia,ucla,1.0,1.0,"(35343.0,)"
+50015,23,M,Schizophrenia,ucla,1.0,1.0,"(35343.0,)"
+50016,49,M,Schizophrenia,ucla,1.0,1.0,"(35343.0,)"
+50020,25,M,Schizophrenia,ucla,1.0,1.0,"(35343.0,)"
+50021,41,F,Schizophrenia,ucla,1.0,1.0,"(35343.0,)"
+50022,33,M,Schizophrenia,ucla,1.0,1.0,"(35343.0,)"
+50023,49,F,Schizophrenia,ucla,1.0,1.0,"(35343.0,)"
+50025,48,M,Schizophrenia,ucla,1.0,1.0,"(35343.0,)"
+50027,30,F,Schizophrenia,ucla,1.0,1.0,"(35343.0,)"
+50029,49,F,Schizophrenia,ucla,1.0,1.0,"(35343.0,)"
+50032,28,M,Schizophrenia,ucla,1.0,1.0,"(35343.0,)"
+50033,43,M,Schizophrenia,ucla,1.0,1.0,"(35343.0,)"
+50034,43,M,Schizophrenia,ucla,1.0,1.0,"(35343.0,)"
+50035,29,F,Schizophrenia,ucla,1.0,1.0,"(35343.0,)"
+50036,32,M,Schizophrenia,ucla,1.0,1.0,"(35343.0,)"
+50038,26,F,Schizophrenia,ucla,1.0,1.0,"(35343.0,)"
+50043,40,M,Schizophrenia,ucla,1.0,1.0,"(35343.0,)"
+50047,44,M,Schizophrenia,ucla,1.0,1.0,"(35426.0,)"
+50048,43,M,Schizophrenia,ucla,1.0,1.0,"(35426.0,)"
+50049,37,F,Schizophrenia,ucla,1.0,1.0,"(35426.0,)"
+50050,23,M,Schizophrenia,ucla,1.0,1.0,"(35426.0,)"
+50051,37,M,Schizophrenia,ucla,1.0,1.0,"(35426.0,)"
+50052,45,M,Schizophrenia,ucla,1.0,1.0,"(35426.0,)"
+50053,47,M,Schizophrenia,ucla,1.0,1.0,"(35426.0,)"
+50054,23,M,Schizophrenia,ucla,1.0,1.0,"(35426.0,)"
+50055,23,M,Schizophrenia,ucla,1.0,1.0,"(35426.0,)"
+50056,49,F,Schizophrenia,ucla,1.0,1.0,"(35426.0,)"
+50058,38,F,Schizophrenia,ucla,1.0,1.0,"(35426.0,)"
+50059,39,M,Schizophrenia,ucla,1.0,1.0,"(35426.0,)"
+50060,41,M,Schizophrenia,ucla,1.0,1.0,"(35426.0,)"
+50061,48,M,Schizophrenia,ucla,1.0,1.0,"(35426.0,)"
+50064,31,F,Schizophrenia,ucla,1.0,1.0,"(35426.0,)"
+50066,33,M,Schizophrenia,ucla,1.0,1.0,"(35426.0,)"
+50067,25,M,Schizophrenia,ucla,1.0,1.0,"(35426.0,)"
+50069,23,M,Schizophrenia,ucla,1.0,1.0,"(35426.0,)"
+50073,47,M,Schizophrenia,ucla,1.0,1.0,"(35426.0,)"
+50075,33,M,Schizophrenia,ucla,1.0,1.0,"(35426.0,)"
+50076,42,M,Schizophrenia,ucla,1.0,1.0,"(35426.0,)"
+50077,29,M,Schizophrenia,ucla,1.0,1.0,"(35426.0,)"
+50080,29,M,Schizophrenia,ucla,1.0,1.0,"(35426.0,)"
+50081,32,M,Schizophrenia,ucla,1.0,1.0,"(35426.0,)"
+50083,40,M,Schizophrenia,ucla,1.0,1.0,"(35426.0,)"
+50085,25,M,Schizophrenia,ucla,1.0,1.0,"(35343.0,)"
+A00014636,53,M,Schizophrenia Strict,cobre,,,
+A00014898,27,M,Control,cobre,,,
+A00024955,59,M,Control,cobre,,,
+A00014804,30,M,Schizophrenia Strict,cobre,,,
+A00014830,32,F,Schizophrenia Strict,cobre,,,
+A00024663,63,M,Control,cobre,,,
+A00024932,25,F,Control,cobre,,,
+A00024959,34,M,Schizophrenia Strict,cobre,,,
+A00025969,26,M,Control,cobre,,,
+A00024446,41,F,Control,cobre,,,
+A00024301,25,F,Control,cobre,,,
+A00024372,23,M,Control,cobre,,,
+A00024568,20,F,Schizophrenia Strict,cobre,,,
+A00024228,56,F,Schizophrenia Strict,cobre,,,
+A00024535,26,M,Control,cobre,,,
+A00024160,23,M,Control,cobre,,,
+A00024198,55,M,Schizophrenia Strict,cobre,,,
+A00024953,43,M,Schizophrenia Strict,cobre,,,
+A00023866,23,M,Control,cobre,,,
+A00023848,38,M,Control,cobre,,,
+A00016197,21,M,Schizophrenia Strict,cobre,,,
+A00023800,48,M,Control,cobre,,,
+A00023750,51,M,Schizophrenia Strict,cobre,,,
+A00013140,35,M,Control,cobre,,,
+A00023330,29,M,Control,cobre,,,
+A00022915,45,M,Control,cobre,,,
+A00023246,25,M,Schizophrenia Strict,cobre,,,
+A00023158,20,M,Schizophrenia Strict,cobre,,,
+A00024546,23,M,Control,cobre,,,
+A00023120,47,M,Control,cobre,,,
+A00000456,53,M,Schizophrenia Strict,cobre,,,
+A00023095,21,M,Control,cobre,,,
+A00022835,28,M,Control,cobre,,,
+A00022773,48,M,Control,cobre,,,
+A00022687,18,F,Control,cobre,,,
+A00022837,26,M,Control,cobre,,,
+A00022729,47,F,Control,cobre,,,
+A00023243,41,M,Schizophrenia Strict,cobre,,,
+A00022810,35,F,Control,cobre,,,
+A00022727,39,M,Control,cobre,,,
+A00022509,27,M,Control,cobre,,,
+A00022653,30,F,Control,cobre,,,
+A00022490,24,F,Control,cobre,,,
+A00022400,25,M,Control,cobre,,,
+A00021058,37,M,Control,cobre,,,
+A00026945,39,M,Control,cobre,,,
+A00021081,24,M,Control,cobre,,,
+A00020968,29,F,Control,cobre,,,
+A00021072,45,F,Control,cobre,,,
+A00021085,23,F,Control,cobre,,,
+A00020895,43,M,Control,cobre,,,
+A00020805,27,M,Control,cobre,,,
+A00022500,34,F,Schizophrenia Strict,cobre,,,
+A00020787,22,F,Schizophrenia Strict,cobre,,,
+A00020984,31,M,Control,cobre,,,
+A00023590,22,M,Schizophrenia Strict,cobre,,,
+A00023337,21,M,Control,cobre,,,
+A00024684,24,M,Schizophrenia Strict,cobre,,,
+A00020416,50,M,Schizoaffective,cobre,,,
+A00020414,37,M,Schizophrenia Strict,cobre,,,
+A00000838,29,M,Schizophrenia Strict,cobre,,,
+A00020602,22,M,Schizophrenia Strict,cobre,,,
+A00001452,33,F,Schizophrenia Strict,cobre,,,
+A00019349,36,M,Schizophrenia Strict,cobre,,,
+A00019293,48,M,Schizophrenia Strict,cobre,,,
+A00018979,50,M,Schizophrenia Strict,cobre,,,
+A00001181,32,F,Schizophrenia Strict,cobre,,,
+A00018317,57,M,Schizophrenia Strict,cobre,,,
+A00018129,42,F,Schizophrenia Strict,cobre,,,
+A00016720,40,M,Schizophrenia Strict,cobre,,,
+A00016723,40,F,Schizophrenia Strict,cobre,,,
+A00015518,60,M,Schizophrenia Strict,cobre,,,
+A00026907,43,F,Control,cobre,,,
+A00014607,29,M,Schizophrenia Strict,cobre,,,
+A00004087,44,M,Control,cobre,,,
+A00014522,65,M,Control,cobre,,,
+A00000541,48,F,Schizophrenia Strict,cobre,,,
+A00014590,64,M,Schizophrenia Strict,cobre,,,
+A00013363,44,M,Control,cobre,,,
+A00017294,59,F,Control,cobre,,,
+A00002480,66,F,Schizophrenia Strict,cobre,,,
+A00013816,24,M,Control,cobre,,,
+A00017147,49,M,Schizophrenia Strict,cobre,,,
+A00011265,22,F,Control,cobre,,,
+A00003150,32,M,Control,cobre,,,
+A00001251,53,M,Schizophrenia Strict,cobre,,,
+A00015648,36,M,Schizophrenia Strict,cobre,,,
+A00011725,49,M,Control,cobre,,,
+A00014175,52,F,Schizoaffective,cobre,,,
+A00015201,25,M,Schizophrenia Strict,cobre,,,
+A00028404,23,M,Schizophrenia Strict,cobre,,,
+A00027969,43,M,Schizoaffective,cobre,,,
+A00027537,25,M,Schizophrenia Strict,cobre,,,
+A00019888,48,M,Control,cobre,,,
+A00000909,27,M,Schizophrenia Strict,cobre,,,
+A00012995,49,M,Control,cobre,,,
+A00018553,34,F,Control,cobre,,,
+A00007409,48,M,Control,cobre,,,
+A00006754,19,M,Schizophrenia Strict,cobre,,,
+A00010150,43,M,Control,cobre,,,
+A00015826,27,M,Control,cobre,,,
+A00018403,29,M,Schizophrenia Strict,cobre,,,
+A00022592,53,F,Control,cobre,,,
+A00000300,36,M,Control,cobre,,,
+A00000368,52,M,Schizophrenia Strict,cobre,,,
+A00001243,28,M,Schizophrenia Strict,cobre,,,
+A00021598,19,M,Schizophrenia Strict,cobre,,,
+A00014120,38,M,Control,cobre,,,
+A00010684,55,M,Control,cobre,,,
+A00014225,41,F,Control,cobre,,,
+A00009280,23,M,Schizophrenia Strict,cobre,,,
+A00027755,24,M,Schizoaffective,cobre,,,
+A00027391,51,F,Schizophrenia Strict,cobre,,,
+A00027787,34,F,Control,cobre,,,
+A00021591,19,M,Schizophrenia Strict,cobre,,,
+A00023131,36,M,Control,cobre,,,
+A00028052,34,F,Control,cobre,,,
+A00028189,39,M,Schizoaffective,cobre,,,
+A00019750,19,M,Schizoaffective,cobre,,,
+A00014719,45,M,Schizophrenia Strict,cobre,,,
+A00015759,54,F,Control,cobre,,,
+A00028409,31,M,Control,cobre,,,
+A00023730,51,M,Control,cobre,,,
+A00027410,27,M,Schizophrenia Strict,cobre,,,
+A00027487,53,M,Control,cobre,,,
+A00028408,28,M,Schizophrenia Strict,cobre,,,
+A00004507,57,M,Schizophrenia Strict,cobre,,,
+A00028402,44,M,Schizoaffective,cobre,,,
+A00028405,51,M,Schizophrenia Strict,cobre,,,
+A00028303,26,M,Schizophrenia Strict,cobre,,,
+A00028805,20,M,Schizophrenia Strict,cobre,,,
+A00028806,26,M,Schizophrenia Strict,cobre,,,
+A00029226,37,F,Control,cobre,,,
+A00029486,57,M,Schizophrenia Strict,cobre,,,
+A00029452,39,M,Control,cobre,,,
+A00031478,43,F,Control,cobre,,,
+A00031597,50,M,Schizophrenia Strict,cobre,,,
+A00031764,37,F,Control,cobre,,,
+A00031271,52,F,Schizoaffective,cobre,,,
+A00033214,54,M,Control,cobre,,,
+A00035003,26,M,Schizophrenia Strict,cobre,,,
+A00035485,39,M,Schizophrenia Strict,cobre,,,
+A00035859,59,M,Schizoaffective,cobre,,,
+A00035751,42,M,Control,cobre,,,
+A00035836,35,F,Schizoaffective,cobre,,,
+A00036049,57,M,Control,cobre,,,
+A00036555,52,M,Control,cobre,,,
+A00036844,55,M,Control,cobre,,,
+A00036897,41,M,Control,cobre,,,
+A00037034,22,M,Schizophrenia Strict,cobre,,,
+A00036916,55,M,Control,cobre,,,
+A00037238,38,M,Control,cobre,,,
+A00037318,53,M,Control,cobre,,,
+A00037224,32,M,Schizophrenia Strict,cobre,,,
+A00037495,49,M,Control,cobre,,,
+A00037564,50,M,Control,cobre,,,
+A00037619,55,M,Schizophrenia Strict,cobre,,,
+A00037649,40,F,Schizophrenia Strict,cobre,,,
+A00037665,43,M,Control,cobre,,,
+A00037007,60,M,Control,cobre,,,
+A00037854,21,M,Schizophrenia Strict,cobre,,,
+A00038172,30,M,Schizoaffective,cobre,,,
+A00038441,52,M,Schizophrenia Strict,cobre,,,
+A00038624,45,M,Schizophrenia Strict,cobre,,,
