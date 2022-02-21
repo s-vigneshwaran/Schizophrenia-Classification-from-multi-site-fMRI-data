@@ -1,8 +1,9 @@
 .ipynb_checkpoints
-data/templates
-data/Control
-data/Schizoaffective
-data/Schizophrenia
-data/Schizophrenia_Strict
+data/images
+data/data.tar
+data/connection
+data/ucla.tsv
+data/cobre.tsv
 output
+nilearn_cache
 __pycache__
